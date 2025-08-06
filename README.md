@@ -3,7 +3,7 @@
 
 ## 📁  `Bugs_API_EvelynNava` → `README.md`
 
-```md
+```
 # 🐞 Reporte de Bugs en API – Evelyn Nava
 
 Este repositorio contiene la documentación de **bugs encontrados durante pruebas manuales** a una API de gestión de pedidos. Cada error está detallado en formato profesional como si se tratara de un entorno real de desarrollo.
