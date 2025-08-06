@@ -1,7 +1,7 @@
 
 ---
 
-## 📁 Repositorio 2: `Bugs_API_EvelynNava` → `README.md`
+## 📁  `Bugs_API_EvelynNava` → `README.md`
 
 ```md
 # 🐞 Reporte de Bugs en API – Evelyn Nava
@@ -25,7 +25,6 @@ Los errores fueron encontrados como parte de una práctica personal para fortale
 
 ## 📂 Estructura del repositorio
 
-```bash
 📦 Bugs_API_EvelynNava
 ├── id_en_url/
 ├── id_en_json/
@@ -38,8 +37,7 @@ Los errores fueron encontrados como parte de una práctica personal para fortale
 Todos los bugs están documentados con IDs simulados (ej. ENP2-03). No corresponden a un Jira real, pero están escritos con estándares profesionales.
 
 🧪 Ejemplo de bug documentado
-md
-Copy code
+
 # 🐞 Bug – El sistema permite ID negativo en la URL
 
 **ID del caso:** 5  
